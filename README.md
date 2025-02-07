@@ -10,8 +10,6 @@ Real-time Intrusion Detection: Continuously analyzes network traffic to detect i
 
 Machine Learning-based Approach: Uses a trained RandomForest model for anomaly detection.
 
-Visualization Dashboard: Displays detected threats and network activity insights.
-
 Automated Reporting: Generates reports on identified threats for further analysis.
 
 Scheduler Integration: Automates model execution and network scanning.
