@@ -1,7 +1,7 @@
-Network Intrusion Detection System (NIDS) using Machine Learning
-
-Project Overview
-
+**Network Intrusion Detection System (NIDS) using Machine Learning
+**
+*Project Overview
+*
 This project implements a Network Intrusion Detection System (NIDS) using a RandomForest-based Machine Learning model. The system is designed to operate in real-time to detect malicious network activity. It leverages the CIC-Collection dataset for training and evaluation.
 
 Features
