@@ -33,10 +33,7 @@ pip install -r requirements.txt
 
 Run the Detection System
 
-python app.py
-
-Access the Dashboard
-Open a browser and go to: http://localhost:5000
+python NIDS.py
 
 Dataset
 
